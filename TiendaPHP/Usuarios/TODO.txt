@@ -1,0 +1,79 @@
+a. Formulario de Inicio de sesión: Permite al usuario iniciar sesión en el sitio
+web, usando usuario nativo o redes sociales (google o fecabook) , en
+caso de ser la primera vez usando redes sociales se registrara el usuario
+en la BD del sitio web (Registro usando redes sociales).
+    i. Campos: Nombre de usuario, Contraseña y Código (doble factor
+    google autenticar), Check (Switch) para mantener sesión abierta.
+    ii. Botones: Entrar
+    iii. Validaciones:
+        1. Formatos y tamaños.
+        2. Campos requeridos.
+    iv. Mensajes:
+        1. Usuario y/o contraseña invalida.
+        2. Código invalido.
+
+b. Página de Registro: Mostrara el formulario de registro.
+
+c. Formulario de Registro: Permite al usuario registrarse en el sitio web.
+    i. Campos: Nombre, Correo, Usuario y Contraseña.
+    ii. Botones: Registrar.
+    iii. Validaciones:
+        1. Formatos y tamaños
+        2. Campos requeridos.
+        3. Correo valido.
+        4. Contraseñas iguales.
+    iv. Mensajes:
+        1. Correo ya registrado.
+        2. Contraseña no segura.
+        3. contraseñas no coinciden
+        4. Nombre de usuario ya registrado
+        5. Correo ya registrado
+        6. Registro satisfactorio.
+        7. Error al registrar.
+        8. Validar correo (Se ha enviado un correo para validar su cuenta).
+    9. Correo validado.
+d. Página de Perfil: Mostrara pestañas para visualizar el formulario de perfil,
+el formulario de cambiar contraseña y el formulario de seguridad de
+doble factor.
+
+e. Formulario de Perfil: Permite al usuario actualizar sus datos.
+    i. Campos: Nombre, Correo (no modificable), Usuario (No
+    modificable).
+    ii. Botones: Actualizar.
+    iii. Validaciones:
+        1. Formatos y tamaños
+        2. Campos requeridos.
+    iv. Mensajes:
+        1. Actualización satisfactoria.
+f. Formulario de cambiar contraseña: Permite al usuario cambiar su
+contraseña actual.
+    i. Campos: Contraseña Actual, Nueva contraseña, Confirmar
+    Contraseña.
+    ii. Botones: Cambiar contraseña.
+    iii. Validaciones:
+        1. Formatos y tamaños
+        2. Campos requeridos.
+        3. Contraseñas iguales.
+    iv. Mensajes:
+        1. Contraseña invalida.
+        2. Contraseña no segura.
+        3. Contraseñas no coinciden.
+        4. Cambio satisfactorio.
+g. Formulario de seguridad de doble factor: Permite al usuario configurar la
+seguridad de doble factor (Google Autenticator).
+
+i. Campos: Check (Switch) activar seguridad de doble factor,
+Código de Doble Factor.
+
+h. Página de recuperar contraseña: Mostrara el formulario para recuperar
+contraseña.
+    i. Formulario de recuperar contraseña: Permite al usuario recuperar el
+    acceso a su cuenta mediante un correo electrónico.
+    i. Campos: Nombre de usuario.
+    ii. Botones: Recuperar.
+    iii. Validaciones:
+        1. Formatos y tamaños
+        2. Campos requeridos.
+    iv. Mensajes:
+        1. Correo de recuperación enviado
+        2. Usuario no registrado

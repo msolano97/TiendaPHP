@@ -1,0 +1,12 @@
+a. Página de configuración: Muestra las opciones de configuración
+mediante el formulario de configuración.
+
+b. Formulario de configuración: Permite al administrador establecer las
+opciones de configuración.
+    i. Base Datos: Permite establecer los parámetros de conexión a la
+    base de datos.
+    ii. Email: Permite establecer los parámetros para el envió de correos
+    electrónicos.
+    iii. Otros: Permite establecer otros parámetros para el
+    funcionamiento del sitio web, ejemplo datos para la utilización de
+    las apis de sedes sociales entre otras.

@@ -1,0 +1,17 @@
+a. Página de dispositivos: Muestra pestañas para visualizar la lista de
+dispositivos y el formulario de agregar dispositivo.
+
+b. Lista de dispositivos: Muestra una tabla de los dispositivos vinculados y un
+botón (hipervínculo) con la opción de eliminar por cada dispositivo.
+
+c. Formulario de agregar dispositivos: Permite al usuario vincular dispositivos
+con su cuenta para permitir el acceso de forma directa desde un
+dispositivo vinculado (no requerirá inicio de sesión.) .
+    i. Campos. Nombre, descripción (opcional), Mac (No editable).
+    ii. Botones: agregar.
+    iii. Validaciones:
+        1. Formatos y tamaños.
+        2. Campos requeridos.
+    iv. Mensajes:
+        1. Dispositivo vinculado.
+        2. El dispositivo ya se encuentra vinculado.

@@ -1,0 +1,4 @@
+a. Página de Inicio: Mostrara la página principal de su negocio con un
+listado de artículos o servicios disponibles.
+
+b. Menú: Permite la navegación por el sitio

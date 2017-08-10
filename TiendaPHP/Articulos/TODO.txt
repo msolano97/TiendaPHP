@@ -1,0 +1,17 @@
+a. Página de Artículos o servicios: Muestra pestañas para visualizar la lista
+artículos o servicios y un formulario de agregar artículos o servicios
+
+b. Lista de artículos o servicio: Muestra una tabla con los articulos o servicio
+ofrecidos por el sitio web y un botón (hipervínculo) con la opción de
+eliminar un artículo o servicio.
+
+c. Formulario de agregar artículos o servicios: Permite al usuario
+(Administrador) agregar artículos o servicios.
+    i. Campos. Nombre, descripción, precio
+    ii. Botones: Agregar.
+    iii. Validaciones:
+        1. Formatos y tamaños.
+        2. Campos requeridos.
+    iv. Mensajes:
+        1. Departamento o carrera agregado.
+        2. El departamento o carrera ya se encuentra registrado.
