@@ -1,5 +1,5 @@
-Carrito de Compra: Mostrara el nombre del usuario, y un listado de los artículos
+﻿Carrito de Compra: Mostrara el nombre del usuario, y un listado de los artículos
 o servicios agregados al carrito de compras además de un total a pagar, con
 la opción de poder aumentar o disminuir (ajax) la cantidad de solicitada de un
 artículo o servicio, en caso de estar en 1 y disminuir confirmara la eliminación
-del artículo o servicio del carrito de compra.
+del artículo o servicio del carrito de compra
